@@ -20,3 +20,5 @@ A linguagem de programação exigida foi Python.
 
 ## Observações
 Os arquivos .txt estão sendo gerados no site Maze Generator, conforme o link: https://www.dcode.fr/maze-generator
+
+As observações finais estão no pdf "Relatório Final 20.2.8047 e 20.2.8091.txt"
