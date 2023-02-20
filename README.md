@@ -5,5 +5,6 @@
 ## Objetivos
 
 ## Linguagem de Programação Utilizada
+A linguagem de programação exigida foi Python.
 
 ## Observações
